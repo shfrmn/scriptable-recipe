@@ -8,4 +8,5 @@ Random food recipe widget for iOS scriptable that opens cooking video on YouTube
 1. Install [scriptable app](https://apps.apple.com/us/app/scriptable/id1405459188)
 2. Save [the code](https://github.com/shfrmn/scriptable-recipe/blob/main/food-recipe-widget.js) as a new script
 3. Add a new scriptable widget
-4. Configure the widget to run the new script and open url on tap
+4. Configure the widget to run the new script and don't worget to set "When Interacting" setting to "Open URL" 
+5. Enjoy!
